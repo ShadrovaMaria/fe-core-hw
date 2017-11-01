@@ -1,0 +1,67 @@
+body {
+    background-color: #b9cbdd;
+    background-image: url(../img/sea.png);
+    background-position: center center;
+    background-size: cover;
+    background-attachment: lokal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+    max-width: 480px;
+    background-color: #ffffff;
+    margin: auto;
+    padding: 40px;
+    padding-left: 70px;
+    padding-right: 70px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+h2,
+h3,
+b,
+li {
+    color: blue;
+}
+
+h2 {
+    font-family: PathwayGothicOne-Book, sent-serif;
+    font-size: 25px;
+}
+
+.mymargin h2 {
+    margin-top: 50px;
+}
+
+li {
+    list-style-type: none;
+    padding-left: -70px;
+}
+
+ol {
+    border-bottom: 1px solid #333;
+    padding-bottom: 50px;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+li {
+    padding-bottom: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+* {
+    mardgin: 0;
+    padding: 0;
+}
+
+.padding-bottom {
+    padding-left: 34px;
+    padding-bottom: 20px;
+}
