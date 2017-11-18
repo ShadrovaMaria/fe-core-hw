@@ -44,6 +44,9 @@ ol {
     padding-bottom: 50px;
 }
 
+.inline-block {
+    display: inline-block;
+}
 
 li {
     padding-bottom: 15px;
@@ -58,8 +61,21 @@ a {
     padding: 0;
 }
 
-ul {
-    display: inline-block;
+.padding-bottom {
     padding-left: 34px;
     padding-bottom: 20px;
 }
+ul {
+    columns: 2;
+    column-width: 50%;
+}
+
+
+
+
+
+
+
+
+
+     
